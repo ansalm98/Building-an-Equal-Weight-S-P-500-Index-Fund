@@ -1,4 +1,4 @@
-# Equal-Weight-S-P-500-Index-Fund-Project
+# Building an Equal-Weight S&P 500 Index Fund
 Welcome to the Equal-Weight S&amp;P 500 Index Fund project! In this project, we aim to create a Python script that will help you construct an equal-weight version of the S&amp;P 500 index fund. By doing so, you can achieve diversification across all constituents of the index without having to manually calculate the weights for each stock.
 ## Introduction
 The S&P 500 index is widely regarded as one of the most important benchmarks for the performance of the U.S. stock market. It consists of 500 of the largest publicly traded companies in the United States, spanning various industries and sectors. The SPDR® S&P 500® ETF Trust, with over US$250 billion in assets under management, is one of the largest funds that track this index.
